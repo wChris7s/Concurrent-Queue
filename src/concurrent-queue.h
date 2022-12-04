@@ -1,5 +1,5 @@
 //
-// Created by chris on 4/12/2022.
+// Created by Chris
 //
 
 #ifndef CONCURRENT_QUEUE_CONCURRENT_QUEUE_H

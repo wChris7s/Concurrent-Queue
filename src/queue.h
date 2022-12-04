@@ -4,9 +4,6 @@
 
 #ifndef CONCURRENT_QUEUE_QUEUE_H
 #define CONCURRENT_QUEUE_QUEUE_H
-//
-// Created by chris on 4/12/2022.
-//
 
 #include <iostream>
 
